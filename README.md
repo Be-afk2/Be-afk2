@@ -1,6 +1,6 @@
 ## Hi there 👋
+<h3 align="center">Desarrollador de aplicaciones web , backend y mantenimiento de servidores.</h3>
 
-### Conocimientos en
 
 **Lenguajes de Programación:**
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)   
@@ -26,11 +26,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <!-- -->
-<p align="center">
-<a href="https://github.com/Be-afk2">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Be-afk2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Be-afk2&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p>
+	<img
+		align="left"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=Be-afk2&show_icons=true&locale=en&layout=compact&exclude_repo=Be-afk2.github.io"
+		alt="zero0242" />
 </p>
 <!--
 **Be-afk2/Be-afk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
