@@ -8,6 +8,7 @@
 - ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)   
 - ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp%2B%2B&logoColor=00599C) 
 - ![C](https://img.shields.io/badge/C-05122A?logo=C&logoColor=00599C)   
+- ![Go](https://img.shields.io/badge/GO-05122A?logo=Go&logoColor=00599C)   
 - TypeScript   
 - MySQL   
 
