@@ -31,7 +31,7 @@
 	<img
 		align="left"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=Be-afk2&show_icons=true&locale=en&layout=compact&exclude_repo=Be-afk2.github.io"
-		alt="zero0242" />
+		alt="Be-afk2" />
 </p>
 <!--
 **Be-afk2/Be-afk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
