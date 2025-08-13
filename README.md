@@ -73,7 +73,7 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web, backend y admi
 
 ### 📫 Contacto
 <p align="center">
-  <a href="[https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/benjamin-torres-sandoval-090380344)" target="_blank">
+  <a href="https://www.linkedin.com/in/benjamin-torres-sandoval-090380344" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:benjaminignacio.ts@gmail.com">
