@@ -1,15 +1,18 @@
-## 👋 Hola, soy Benjamin Ignacio Torres Sandoval  
+<!-- Encabezado animado -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Benjamin%20Ignacio%20Torres%20Sandoval&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <h3 align="center">💻 Desarrollador Fullstack | Backend | Mantenimiento de Servidores</h3>
 
-Soy un desarrollador con experiencia en **aplicaciones web, backend y administración de servidores**, combinando distintos lenguajes y frameworks para crear soluciones eficientes y escalables. Actualmente curso cuarto año de Ingeniería y cuento con casi 3 años de experiencia profesional.
+<p align="center">
+Soy un desarrollador con experiencia en <strong>aplicaciones web, backend y administración de servidores</strong>, combinando distintos lenguajes y frameworks para crear soluciones eficientes y escalables. Actualmente curso cuarto año de Ingeniería y cuento con casi 3 años de experiencia profesional.
+</p>
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
 **💡 Lenguajes de Programación**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript" />
@@ -21,7 +24,7 @@ Soy un desarrollador con experiencia en **aplicaciones web, backend y administra
 </p>
 
 **📚 Frameworks**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E" />
   <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B" />
@@ -29,20 +32,20 @@ Soy un desarrollador con experiencia en **aplicaciones web, backend y administra
 </p>
 
 **🗄️ Bases de Datos**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791" />
 </p>
 
 **🎨 Frontend**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter" />
 </p>
 
 **🔧 Herramientas**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman" />
   <img src="https://img.shields.io/badge/JWT-05122A?style=flat&logo=jsonwebtokens" />
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" />
@@ -55,21 +58,21 @@ Soy un desarrollador con experiencia en **aplicaciones web, backend y administra
 ---
 
 ### 📌 Proyectos Destacados
-- 🚀 **[Proyecto 1](#)** – Descripción breve del proyecto y tecnologías usadas.
-- 🔐 **[Proyecto 2](#)** – Descripción breve del proyecto y tecnologías usadas.
-- 📊 **[Proyecto 3](#)** – Descripción breve del proyecto y tecnologías usadas.
+- 🚀 **[Proyecto 1](#)** – Breve descripción del proyecto y tecnologías usadas.
+- 🔐 **[Proyecto 2](#)** – Breve descripción del proyecto y tecnologías usadas.
+- 📊 **[Proyecto 3](#)** – Breve descripción del proyecto y tecnologías usadas.
 
 ---
 
 ### 📈 Estadísticas de GitHub
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Be-afk2&show_icons=true&locale=es&layout=compact" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ### 📫 Contacto
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
@@ -77,3 +80,6 @@ Soy un desarrollador con experiencia en **aplicaciones web, backend y administra
     <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail" />
   </a>
 </p>
+
+<!-- Footer animado -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer)
