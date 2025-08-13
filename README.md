@@ -58,9 +58,9 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web, backend y admi
 ---
 
 ### 📌 Proyectos Destacados
-- 🚀 **[Proyecto 1](#)** – Breve descripción del proyecto y tecnologías usadas.
-- 🔐 **[Proyecto 2](#)** – Breve descripción del proyecto y tecnologías usadas.
-- 📊 **[Proyecto 3](#)** – Breve descripción del proyecto y tecnologías usadas.
+- 🚀 **[Citi API v4](#)** – API backend desarrollada con **NestJS** y **TypeORM**, estructurada como monorepo. Incluye un módulo de gestión de base de datos y un módulo de API REST para conectar aplicaciones web y móviles de turismo. Implementa **JWT** para autenticación y un sistema de recomendaciones personalizadas basado en etiquetas asignadas a los lugares, adaptándose a los gustos de cada usuario.
+
+- 🎲 **[DD-Back](#)** – Proyecto personal en **NestJS** con monorepo dividido en API, interfaz web (EJS) y base de datos (**TypeORM**). Diseñado para gestionar partidas de Dungeons & Dragons entre amigos, incluye manejo de usuarios, personajes, criaturas, estadísticas personalizables, bestiario y un sistema de inventario en desarrollo.
 
 ---
 
@@ -73,10 +73,10 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web, backend y admi
 
 ### 📫 Contacto
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/benjamin-torres-sandoval-090380344)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:tuemail@correo.com">
+  <a href="mailto:benjaminignacio.ts@gmail.com">
     <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail" />
   </a>
 </p>
