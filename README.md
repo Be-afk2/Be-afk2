@@ -1,7 +1,7 @@
 <!-- Encabezado animado -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Benjamin%20Ignacio%20Torres%20Sandoval&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<h3 align="center">💻 Desarrollador Fullstack | Backend | Mantenimiento de Servidores</h3>
+<h3 align="center">💻 Desarrollador Fullstack | Backend </h3>
 
 <p align="center">
 Soy un desarrollador con experiencia en <strong>aplicaciones web, backend y administración de servidores</strong>, combinando distintos lenguajes y frameworks para crear soluciones eficientes y escalables. Actualmente curso cuarto año de Ingeniería y cuento con casi 3 años de experiencia profesional.
