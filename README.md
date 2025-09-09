@@ -20,14 +20,12 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web y backend </str
   <img src="https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp" />
   <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" />
   <img src="https://img.shields.io/badge/Go-05122A?style=flat&logo=go" />
-  <img src="https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart" />
 </p>
 
 **📚 Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E" />
   <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" />
-  <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Blazor-05122A?style=flat&logo=blazor&logoColor=5C2D91" />
 </p>
 
@@ -41,7 +39,6 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web y backend </str
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter" />
 </p>
 
 **🔧 Herramientas**
