@@ -19,7 +19,6 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web y backend </str
   <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp" />
   <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" />
-  //<img src="https://img.shields.io/badge/Go-05122A?style=flat&logo=go" />
 </p>
 
 **📚 Frameworks**
