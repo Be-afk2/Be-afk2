@@ -25,7 +25,7 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web y backend </str
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E" />
   <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" />
-  <img src="https://img.shields.io/badge/Blazor-05122A?style=flat&logo=blazor&logoColor=5C2D91" />
+
 </p>
 
 **🗄️ Bases de Datos**
