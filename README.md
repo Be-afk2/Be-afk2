@@ -63,14 +63,14 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web y backend </str
 
 
 ---
-
+<!--
 ### 📈 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Be-afk2&show_icons=true&locale=es&layout=compact" alt="Lenguajes más usados" />
 </p>
 
 ---
-
+-->
 ### 📫 Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/benjamin-torres-sandoval-090380344" target="_blank">
