@@ -59,7 +59,7 @@ Soy un desarrollador con experiencia en <strong>aplicaciones web y backend </str
 - 🎲 **[DD-Back](#)** – Proyecto personal en **NestJS** con monorepo dividido en API, interfaz web (EJS) y base de datos (**TypeORM**). Diseñado para gestionar partidas de Dungeons & Dragons entre amigos, incluye manejo de usuarios, personajes, criaturas, estadísticas personalizables, bestiario y un sistema de inventario en desarrollo.
 
 
- – 💰 Gestor de Gastos en Consola - Proyecto personal desarrollado en Python utilizando SQLModel y SQLite, orientado a la gestión de gastos e ingresos con enfoque en lógica de dominio y persistencia de datos. La aplicación funciona mediante una interfaz por consola modular, con menús desacoplados y widgets reutilizables, e incluye manejo de usuarios y sesiones locales. El diseño prioriza una arquitectura clara y extensible, pensada para evolucionar fácilmente hacia una API REST en el futuro, incorporando relaciones entre entidades, validaciones de dominio y visualización básica de datos.
+- 💰 Gestor de Gastos en Consola - Proyecto personal desarrollado en Python utilizando SQLModel y SQLite, orientado a la gestión de gastos e ingresos con enfoque en lógica de dominio y persistencia de datos. La aplicación funciona mediante una interfaz por consola modular, con menús desacoplados y widgets reutilizables, e incluye manejo de usuarios y sesiones locales. El diseño prioriza una arquitectura clara y extensible, pensada para evolucionar fácilmente hacia una API REST en el futuro, incorporando relaciones entre entidades, validaciones de dominio y visualización básica de datos.
 
 
 ---
