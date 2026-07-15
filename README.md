@@ -54,12 +54,12 @@ Desarrollador Backend con experiencia en aplicaciones web y APIs REST utilizando
 ---
 
 ### 📌 Proyectos Destacados
-- 🚀 **[Citi API v4](#)** – API backend desarrollada con **NestJS** y **TypeORM**, estructurada como monorepo. Incluye un módulo de gestión de base de datos y un módulo de API REST para conectar aplicaciones web y móviles de turismo. Implementa **JWT** para autenticación y un sistema de recomendaciones personalizadas basado en etiquetas asignadas a los lugares, adaptándose a los gustos de cada usuario.
+- 🚀 **[Citi API v4](https://github.com/Be-afk2/citi-api-v4)** – API backend desarrollada con **NestJS** y **TypeORM**, estructurada como monorepo. Incluye un módulo de gestión de base de datos y un módulo de API REST para conectar aplicaciones web y móviles de turismo. Implementa **JWT** para autenticación y un sistema de recomendaciones personalizadas basado en etiquetas asignadas a los lugares, adaptándose a los gustos de cada usuario.
 
-- 🎲 **[DD-Back](#)** – Proyecto personal en **NestJS** con monorepo dividido en API, interfaz web (EJS) y base de datos (**TypeORM**). Diseñado para gestionar partidas de Dungeons & Dragons entre amigos, incluye manejo de usuarios, personajes, criaturas, estadísticas personalizables, bestiario y un sistema de inventario en desarrollo.
+- 🎲 **[DD-Back](https://github.com/Be-afk2/dd-back)** – Proyecto personal en **NestJS** con monorepo dividido en API, interfaz web (EJS) y base de datos (**TypeORM**). Diseñado para gestionar partidas de Dungeons & Dragons entre amigos, incluye manejo de usuarios, personajes, criaturas, estadísticas personalizables, bestiario y un sistema de inventario en desarrollo.
 
 
-- 💰 Gestor de Gastos de Escritorio — Aplicación híbrida desarrollada en Python, orientada a la gestión de gastos e ingresos con enfoque en lógica de dominio y persistencia de datos mediante SQLModel y SQLite. La arquitectura se basa en una API local junto a una interfaz gráfica construida sobre WebView, permitiendo combinar tecnologías web con ejecución nativa de escritorio. El sistema incorpora manejo de usuarios y sesiones locales, relaciones entre entidades y visualización básica de datos. El diseño prioriza una estructura modular, desacoplada y extensible, facilitando la escalabilidad futura y la posible migración hacia una arquitectura cliente-servidor o API REST completa
+- 💰  **[Gestor de Gastos de Escritorio](https://github.com/Be-afk2/FlujoCaja/)**  — Aplicación híbrida desarrollada en Python, orientada a la gestión de gastos e ingresos con enfoque en lógica de dominio y persistencia de datos mediante SQLModel y SQLite. La arquitectura se basa en una API local junto a una interfaz gráfica construida sobre WebView, permitiendo combinar tecnologías web con ejecución nativa de escritorio. El sistema incorpora manejo de usuarios y sesiones locales, relaciones entre entidades y visualización básica de datos. El diseño prioriza una estructura modular, desacoplada y extensible, facilitando la escalabilidad futura y la posible migración hacia una arquitectura cliente-servidor o API REST completa
 
 
 ---
