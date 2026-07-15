@@ -4,7 +4,7 @@
 <h3 align="center">💻 Desarrollador Fullstack | Backend </h3>
 
 <p align="center">
-Soy un desarrollador con experiencia en <strong>aplicaciones web y backend </strong>, combinando distintos lenguajes y frameworks para crear soluciones eficientes y escalables. Actualmente curso cuarto año de Ingeniería y cuento con casi 3 años de experiencia profesional.
+Desarrollador Backend con experiencia en aplicaciones web y APIs REST utilizando NestJS, TypeScript y Python.
 </p>
 
 ---
